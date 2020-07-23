@@ -5,4 +5,4 @@ Test image is 2
 
 here is the output looks like
 
-![Figure_2](https://user-images.githubusercontent.com/48185254/88323239-908cc600-cd3f-11ea-8f6a-ee48790b74a6.png)
+![Screenshot from 2020-07-23 23-54-04](https://user-images.githubusercontent.com/48185254/88323545-04c76980-cd40-11ea-9643-cfa19672cb6e.png)
